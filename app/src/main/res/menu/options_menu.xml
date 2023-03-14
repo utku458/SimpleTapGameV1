@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/xp_farm" android:title="Xp Farm"></item>
+<item android:id="@+id/Level2" android:title="Level2"></item>
+    <item android:id="@+id/Level3" android:title="Level3"></item>
+    <item android:id="@+id/Level4" android:title="Level4"></item>
+</menu>
